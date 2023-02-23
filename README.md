@@ -8,8 +8,8 @@ by: Novatec.py (Stheisy, Génesis, Jaén, Rodrigo, Jonatan)
 Dataset: El chatbot entrena mediante las conversaciones que se encuentran en el archivo intents_reference.json. Si desea agregar más conversaciones para que el bot pueda entrenar y responder a más entradas del usuario, debe modificar dicho archivo.
 
 Requisitos:
-    # python version : 3.9.12
-    # libraries:
+    python version : 3.9.12
+    libraries:
 
     numpy==1.21.5
     nltk==3.7
